@@ -1,13 +1,4 @@
 {
-  "name": "fredalizer_v5",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
   "dependencies": {
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
@@ -16,8 +7,8 @@
     "@vitejs/plugin-react": "^5.1.2",
     "url": "^0.11.4",
     "path": "^0.12.7",
-    "@ffmpeg/ffmpeg": "^0.12.15",
-    "@ffmpeg/util": "^0.12.2"
+    "@ffmpeg/ffmpeg": "^0.12.10",
+    "@ffmpeg/util": "^0.12.1"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
